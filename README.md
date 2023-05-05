@@ -29,19 +29,19 @@ Storing Hash in the Baseline:  <br/>
 <br />
 <br />
 Notify if a File Has Been Created/Modified: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgyukle.com/img/2023/05/06/rPJwGP.jpeg" height="80%" width="80%"/>
 <br />
 <br />
-File Has Been Created:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+File Has Been Created Alert:  <br/>
+<img src="https://i.imgyukle.com/img/2023/05/06/rPJ0bq.jpeg" height="80%" width="80%"/>
 <br />
 <br />
-File Has Been Modified:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+File Has Been Modified Alert:  <br/>
+<img src="https://i.imgyukle.com/img/2023/05/06/rPJdg0.jpeg" height="80%" width="80%"/>
 <br />
 <br />
-File Has Been Deleted:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+File Has Been Deleted Alert:  <br/>
+<img src="https://i.imgyukle.com/img/2023/05/06/rPQRqp.jpeg" height="80%" width="80%"/>
 <br />
 <br />
 
